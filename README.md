@@ -1,2 +1,2 @@
 - 👋 Bonjour à tous je suis Hamasakirp
-- 👀 J'aime voir tout ce que l'on peux avec du codage.
+- 👀 J'aime voir tout ce que l'on peux faire avec du codage.
